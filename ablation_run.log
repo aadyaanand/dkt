@@ -1,0 +1,155 @@
+Device: cpu
+
+=== Lambda=0.1 ===
+[Lambda=0.1] Epoch 1/40  Val KT: 0.4706
+[Lambda=0.1] Epoch 2/40  Val KT: 0.4271
+[Lambda=0.1] Epoch 3/40  Val KT: 0.3898
+[Lambda=0.1] Epoch 4/40  Val KT: 0.3711
+[Lambda=0.1] Epoch 5/40  Val KT: 0.3651
+[Lambda=0.1] Epoch 6/40  Val KT: 0.3617
+[Lambda=0.1] Epoch 7/40  Val KT: 0.3547
+[Lambda=0.1] Epoch 8/40  Val KT: 0.3533
+[Lambda=0.1] Epoch 9/40  Val KT: 0.3527
+[Lambda=0.1] Epoch 10/40  Val KT: 0.3527
+[Lambda=0.1] Epoch 11/40  Val KT: 0.3492
+[Lambda=0.1] Epoch 12/40  Val KT: 0.3480
+[Lambda=0.1] Epoch 13/40  Val KT: 0.3480
+[Lambda=0.1] Epoch 14/40  Val KT: 0.3485
+[Lambda=0.1] Epoch 15/40  Val KT: 0.3467
+[Lambda=0.1] Epoch 16/40  Val KT: 0.3458
+[Lambda=0.1] Epoch 17/40  Val KT: 0.3464
+[Lambda=0.1] Epoch 18/40  Val KT: 0.3455
+[Lambda=0.1] Epoch 19/40  Val KT: 0.3446
+[Lambda=0.1] Epoch 20/40  Val KT: 0.3459
+[Lambda=0.1] Epoch 21/40  Val KT: 0.3452
+[Lambda=0.1] Epoch 22/40  Val KT: 0.3432
+[Lambda=0.1] Epoch 23/40  Val KT: 0.3429
+[Lambda=0.1] Epoch 24/40  Val KT: 0.3429
+[Lambda=0.1] Epoch 25/40  Val KT: 0.3433
+[Lambda=0.1] Epoch 26/40  Val KT: 0.3426
+[Lambda=0.1] Epoch 27/40  Val KT: 0.3419
+[Lambda=0.1] Epoch 28/40  Val KT: 0.3420
+[Lambda=0.1] Epoch 29/40  Val KT: 0.3410
+[Lambda=0.1] Epoch 30/40  Val KT: 0.3408
+[Lambda=0.1] Epoch 31/40  Val KT: 0.3407
+[Lambda=0.1] Epoch 32/40  Val KT: 0.3417
+[Lambda=0.1] Epoch 33/40  Val KT: 0.3403
+[Lambda=0.1] Epoch 34/40  Val KT: 0.3410
+[Lambda=0.1] Epoch 35/40  Val KT: 0.3407
+[Lambda=0.1] Epoch 36/40  Val KT: 0.3405
+  Early stopping after 36 epochs.
+Lambda=0.1 metrics: {'auc': 0.916921348071289, 'rmse': 0.3166636238256766, 'cal_mse': 0.016052632447522888, 'ece': 0.012481886977202787}
+
+=== Lambda=0.3 ===
+[Lambda=0.3] Epoch 1/40  Val KT: 0.4587
+[Lambda=0.3] Epoch 2/40  Val KT: 0.4233
+[Lambda=0.3] Epoch 3/40  Val KT: 0.3858
+[Lambda=0.3] Epoch 4/40  Val KT: 0.3701
+[Lambda=0.3] Epoch 5/40  Val KT: 0.3626
+[Lambda=0.3] Epoch 6/40  Val KT: 0.3658
+[Lambda=0.3] Epoch 7/40  Val KT: 0.3567
+[Lambda=0.3] Epoch 8/40  Val KT: 0.3525
+[Lambda=0.3] Epoch 9/40  Val KT: 0.3500
+[Lambda=0.3] Epoch 10/40  Val KT: 0.3493
+[Lambda=0.3] Epoch 11/40  Val KT: 0.3495
+[Lambda=0.3] Epoch 12/40  Val KT: 0.3534
+[Lambda=0.3] Epoch 13/40  Val KT: 0.3477
+[Lambda=0.3] Epoch 14/40  Val KT: 0.3471
+[Lambda=0.3] Epoch 15/40  Val KT: 0.3459
+[Lambda=0.3] Epoch 16/40  Val KT: 0.3451
+[Lambda=0.3] Epoch 17/40  Val KT: 0.3449
+[Lambda=0.3] Epoch 18/40  Val KT: 0.3449
+[Lambda=0.3] Epoch 19/40  Val KT: 0.3450
+[Lambda=0.3] Epoch 20/40  Val KT: 0.3430
+[Lambda=0.3] Epoch 21/40  Val KT: 0.3447
+[Lambda=0.3] Epoch 22/40  Val KT: 0.3422
+[Lambda=0.3] Epoch 23/40  Val KT: 0.3426
+[Lambda=0.3] Epoch 24/40  Val KT: 0.3420
+[Lambda=0.3] Epoch 25/40  Val KT: 0.3412
+[Lambda=0.3] Epoch 26/40  Val KT: 0.3406
+[Lambda=0.3] Epoch 27/40  Val KT: 0.3406
+[Lambda=0.3] Epoch 28/40  Val KT: 0.3403
+[Lambda=0.3] Epoch 29/40  Val KT: 0.3419
+[Lambda=0.3] Epoch 30/40  Val KT: 0.3408
+[Lambda=0.3] Epoch 31/40  Val KT: 0.3415
+  Early stopping after 31 epochs.
+Lambda=0.3 metrics: {'auc': 0.9174008464999566, 'rmse': 0.31603824868214947, 'cal_mse': 0.0031696128323096527, 'ece': 0.008237469330822365}
+
+=== Lambda=0.5 ===
+[Lambda=0.5] Epoch 1/40  Val KT: 0.4619
+[Lambda=0.5] Epoch 2/40  Val KT: 0.4309
+[Lambda=0.5] Epoch 3/40  Val KT: 0.3862
+[Lambda=0.5] Epoch 4/40  Val KT: 0.3722
+[Lambda=0.5] Epoch 5/40  Val KT: 0.3643
+[Lambda=0.5] Epoch 6/40  Val KT: 0.3576
+[Lambda=0.5] Epoch 7/40  Val KT: 0.3557
+[Lambda=0.5] Epoch 8/40  Val KT: 0.3538
+[Lambda=0.5] Epoch 9/40  Val KT: 0.3491
+[Lambda=0.5] Epoch 10/40  Val KT: 0.3483
+[Lambda=0.5] Epoch 11/40  Val KT: 0.3484
+[Lambda=0.5] Epoch 12/40  Val KT: 0.3498
+[Lambda=0.5] Epoch 13/40  Val KT: 0.3459
+[Lambda=0.5] Epoch 14/40  Val KT: 0.3450
+[Lambda=0.5] Epoch 15/40  Val KT: 0.3500
+[Lambda=0.5] Epoch 16/40  Val KT: 0.3446
+[Lambda=0.5] Epoch 17/40  Val KT: 0.3454
+[Lambda=0.5] Epoch 18/40  Val KT: 0.3451
+[Lambda=0.5] Epoch 19/40  Val KT: 0.3441
+[Lambda=0.5] Epoch 20/40  Val KT: 0.3427
+[Lambda=0.5] Epoch 21/40  Val KT: 0.3438
+[Lambda=0.5] Epoch 22/40  Val KT: 0.3432
+[Lambda=0.5] Epoch 23/40  Val KT: 0.3424
+[Lambda=0.5] Epoch 24/40  Val KT: 0.3416
+[Lambda=0.5] Epoch 25/40  Val KT: 0.3419
+[Lambda=0.5] Epoch 26/40  Val KT: 0.3418
+[Lambda=0.5] Epoch 27/40  Val KT: 0.3404
+[Lambda=0.5] Epoch 28/40  Val KT: 0.3414
+[Lambda=0.5] Epoch 29/40  Val KT: 0.3420
+[Lambda=0.5] Epoch 30/40  Val KT: 0.3406
+  Early stopping after 30 epochs.
+Lambda=0.5 metrics: {'auc': 0.9164625823507808, 'rmse': 0.31651442707765853, 'cal_mse': 0.0018078067283894515, 'ece': 0.0066638520794707655}
+
+=== No-Confidence Ablation ===
+[No Confidence] Epoch 1/40  Val KT: 0.5176
+[No Confidence] Epoch 2/40  Val KT: 0.4366
+[No Confidence] Epoch 3/40  Val KT: 0.3936
+[No Confidence] Epoch 4/40  Val KT: 0.3703
+[No Confidence] Epoch 5/40  Val KT: 0.3625
+[No Confidence] Epoch 6/40  Val KT: 0.3604
+[No Confidence] Epoch 7/40  Val KT: 0.3572
+[No Confidence] Epoch 8/40  Val KT: 0.3523
+[No Confidence] Epoch 9/40  Val KT: 0.3513
+[No Confidence] Epoch 10/40  Val KT: 0.3512
+[No Confidence] Epoch 11/40  Val KT: 0.3514
+[No Confidence] Epoch 12/40  Val KT: 0.3476
+[No Confidence] Epoch 13/40  Val KT: 0.3463
+[No Confidence] Epoch 14/40  Val KT: 0.3479
+[No Confidence] Epoch 15/40  Val KT: 0.3455
+[No Confidence] Epoch 16/40  Val KT: 0.3459
+[No Confidence] Epoch 17/40  Val KT: 0.3463
+[No Confidence] Epoch 18/40  Val KT: 0.3443
+[No Confidence] Epoch 19/40  Val KT: 0.3433
+[No Confidence] Epoch 20/40  Val KT: 0.3430
+[No Confidence] Epoch 21/40  Val KT: 0.3426
+[No Confidence] Epoch 22/40  Val KT: 0.3423
+[No Confidence] Epoch 23/40  Val KT: 0.3498
+[No Confidence] Epoch 24/40  Val KT: 0.3422
+[No Confidence] Epoch 25/40  Val KT: 0.3446
+[No Confidence] Epoch 26/40  Val KT: 0.3419
+[No Confidence] Epoch 27/40  Val KT: 0.3417
+[No Confidence] Epoch 28/40  Val KT: 0.3408
+[No Confidence] Epoch 29/40  Val KT: 0.3431
+[No Confidence] Epoch 30/40  Val KT: 0.3404
+[No Confidence] Epoch 31/40  Val KT: 0.3407
+[No Confidence] Epoch 32/40  Val KT: 0.3413
+[No Confidence] Epoch 33/40  Val KT: 0.3404
+[No Confidence] Epoch 34/40  Val KT: 0.3397
+[No Confidence] Epoch 35/40  Val KT: 0.3394
+[No Confidence] Epoch 36/40  Val KT: 0.3402
+[No Confidence] Epoch 37/40  Val KT: 0.3399
+[No Confidence] Epoch 38/40  Val KT: 0.3390
+[No Confidence] Epoch 39/40  Val KT: 0.3452
+[No Confidence] Epoch 40/40  Val KT: 0.3431
+No-conf metrics: {'auc': 0.9174663527610538, 'rmse': 0.31597861258610854, 'cal_mse': 0.017304956172607418, 'ece': 0.007153700583232503}
+
+Wrote ablation_results.json

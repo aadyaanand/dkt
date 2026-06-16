@@ -1,0 +1,52 @@
+[
+  {
+    "Skill": "Solving Systems of Linear Equations by Graphing",
+    "Miscalibration Rate (%)": 100.0,
+    "N Interactions": 1
+  },
+  {
+    "Skill": "Solving Systems of Linear Equations",
+    "Miscalibration Rate (%)": 62.5,
+    "N Interactions": 8
+  },
+  {
+    "Skill": "Intercept",
+    "Miscalibration Rate (%)": 53.85,
+    "N Interactions": 13
+  },
+  {
+    "Skill": "Algebraic Simplification",
+    "Miscalibration Rate (%)": 50.0,
+    "N Interactions": 2
+  },
+  {
+    "Skill": "Perimeter of a Polygon",
+    "Miscalibration Rate (%)": 38.1,
+    "N Interactions": 42
+  },
+  {
+    "Skill": "Multiplication Whole Numbers",
+    "Miscalibration Rate (%)": 33.33,
+    "N Interactions": 27
+  },
+  {
+    "Skill": "Percents",
+    "Miscalibration Rate (%)": 33.33,
+    "N Interactions": 18
+  },
+  {
+    "Skill": "Parts of a Polyomial, Terms, Coefficient, Monomial, Exponent, Variable",
+    "Miscalibration Rate (%)": 31.48,
+    "N Interactions": 54
+  },
+  {
+    "Skill": "Linear Equations",
+    "Miscalibration Rate (%)": 30.77,
+    "N Interactions": 13
+  },
+  {
+    "Skill": "Surface Area Cylinder",
+    "Miscalibration Rate (%)": 30.43,
+    "N Interactions": 46
+  }
+]
